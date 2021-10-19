@@ -1,4 +1,4 @@
-###Heroes of Pymoli - Pandas-Challenge
+### Heroes of Pymoli - Pandas-Challenge
 
 Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
