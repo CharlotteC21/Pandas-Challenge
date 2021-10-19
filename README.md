@@ -1,8 +1,8 @@
-<B># Pandas-Challenge<B>
+<B># Pandas-Challenge</B>
 Week 4. Pandas Homework
 
 
-<B> Heroes of Pymoli <B>
+<B> Heroes of Pymoli </B>
 
 Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -69,5 +69,4 @@ My final report includes the following:
   * Total Purchase Value
 
 
-
-* You must include a written description of three observable trends based on the data.
+<B>Three observable trends based on the data:</B>
