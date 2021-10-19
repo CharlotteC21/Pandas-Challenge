@@ -10,7 +10,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 My final report includes the following:
 
-#Player Count:
+# Player Count:
 * Total Number of Players
 
 # Purchasing Analysis (Total)
