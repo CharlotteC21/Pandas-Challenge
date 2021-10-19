@@ -6,6 +6,13 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 My final report includes the following:
 
+
+<B>Three observable trends based on the data:</B>
+# Observable Trends
+ - The most popular, reported gender demographic for video game players is far and away the Male demographic, at 84.03%. (Which, based on experience - is fitting,    but we definitely need more female gamers!)
+ - The vast majority, at 44.79% of video game players - are in the age bracket of 20-24. The second most popular age group demographic is 15-19. 
+ - 
+
 # Player Count:
 * Total Number of Players
 
@@ -63,6 +70,3 @@ My final report includes the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-
-<B>Three observable trends based on the data:</B>
