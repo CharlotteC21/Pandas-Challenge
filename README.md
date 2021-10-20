@@ -16,8 +16,8 @@
 
 # Player Count:
 * Total Number of Players
-
-```player = len(purchase_data["SN"].value_counts())
+```python
+player = len(purchase_data["SN"].value_counts())
 player_count = pd.DataFrame([player], columns = ["Total Players"])
 player_count
 ```
@@ -28,7 +28,8 @@ player_count
 * Total Number of Purchases
 * Total Revenue
 
-```
+
+```python
 # Purchasing Analysis (Total)
 UniqueItems = len(purchase_data["Item Name"].unique())
 Averageprice = purchase_data["Price"].mean()
@@ -49,12 +50,13 @@ Pur_Analysis_Total = Pur_Analysis_Total[["Number of Unique Items", "Average Pric
 
 Pur_Analysis_Total
 ```
+
 # Gender Demographics
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-```
+```python
 # Gender Demographics
 
 gender_groups = purchase_data.groupby("Gender")
@@ -90,7 +92,7 @@ gender_demographics
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-```
+```python
 # Purchasing Analysis (age)
 # Combined with the Purchasing Analysis from above!
 bins = [0, 9.9, 14.9, 19.9, 24.9, 29.9, 34.9, 39.9, 150]
@@ -123,7 +125,7 @@ age_demographics
   * Total Purchase Value
   * Average Purchase Total per Person by Age
 
-```
+```python
 #using the data frame from previous exercise and use that the create the variables for this set
 purchase_count_age = age_groupings["Purchase ID"].count()
 
@@ -152,7 +154,7 @@ age_analysis
   * Average Purchase Price
   * Total Purchase Value
 
-```
+```python
 # Top Spenders 
 top_spender_stats = purchase_data.groupby("SN")
 
@@ -180,7 +182,7 @@ ascending_purch_values.head(3)
   * Purchase Count
   * Item Price
   * Total Purchase Value
-```
+```python
 #isolate the Item ID, Item Name, and Item Price columns
 items = purchase_data[["Item ID", "Item Name", "Price"]]
 
@@ -213,7 +215,7 @@ asc_most_popular_items.head(3)
   * Purchase Count
   * Item Price
   * Total Purchase Value
-```
+```python
 # Most Profitable Items
 
 most_profitable = most_popular_items.sort_values(["Total Purchase Value"],ascending = False).head(3)
