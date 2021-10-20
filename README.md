@@ -91,6 +91,7 @@ gender_demographics
 
 ```
 # Purchasing Analysis (age)
+# Combined with the Purchasing Analysis from above!
 bins = [0, 9.9, 14.9, 19.9, 24.9, 29.9, 34.9, 39.9, 150]
 group_names = ["<10", "10-14", "15-19", "20-24", "25-29", "30-34", "35-39", "40+"]
 
