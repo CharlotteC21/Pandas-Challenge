@@ -1,4 +1,4 @@
-### Heroes of Pymoli - Pandas-Challenge
+# Heroes of Pymoli - Pandas-Challenge
 
 Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -11,7 +11,7 @@ My final report includes the following:
 # Observable Trends
  - The most popular, reported gender demographic for video game players is far and away the Male demographic, at 84.03%. (Which, based on experience - is fitting,    but we definitely need more female gamers!)
  - The vast majority, at 44.79% of video game players - are in the age bracket of 20-24. The second most popular age group demographic is 15-19. 
- - 
+ - According to the "Average Player Purchase" purchasing data, <10 year olds spent ~$4.54 per player, which is more than the most popular age demographic of 20-24    year olds. (Basically, this means that the parents of 10 year olds are giving their kiddos lots of in game purchase money! haha)
 
 # Player Count:
 * Total Number of Players
