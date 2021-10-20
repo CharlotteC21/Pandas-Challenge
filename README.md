@@ -16,6 +16,10 @@ My final report includes the following:
 # Player Count:
 * Total Number of Players
 
+### player = len(purchase_data["SN"].value_counts())
+player_count = pd.DataFrame([player], columns = ["Total Players"])
+player_count ###
+
 # Purchasing Analysis (Total)
 * Number of Unique Items
 * Average Purchase Price
